@@ -1,0 +1,2 @@
+# exercicios
+primeiro exercicio
